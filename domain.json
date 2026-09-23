@@ -5,7 +5,8 @@
     "apiMap": {
       "直连 [推荐]": "https://z.changjinglu.club",
       "香港": "https://api-lisa.changjinglu.club",
-      "日本": "https://api-aws.changjinglu.club",
+      "日本1": "https://api-jp-lisa.changjinglu.club",
+      "日本2": "https://api-aws.changjinglu.club",
       "日本 [备选]": "https://api-jp.changjinglu.club",
       "新加坡 [备选]": "https://api-sg.changjinglu.club",
       "美国 [备选]": "https://api-us.changjinglu.club"
